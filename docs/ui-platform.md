@@ -197,7 +197,8 @@ Flutter is the best fit for Ergo UIKit:
   It is maintaines by the same team and well tested against Java version. 
 - In the presence of PointyCastle, porting of ErgoTree Intepreter to Dart will be simple because 1) Dart is semantically very
   close to Java; 2) PointyCastle is a clone of BouncyCastle.
-- Appkit can be ported to Dart even easier since it is Java. In fact Appkit-dart will have 
+- Appkit can be ported to Dart even easier since it is implemented in Java. In fact
+Appkit-dart will have simpler implementation because Java-to-Scala bridge is not necessary.
 - Plugins allow platform specific customization of application
 - Flutter compiles and packages all dependencies into native code. You can control, in a simple
 way, which code you package. This is important for security. This may be less flexible
