@@ -171,8 +171,8 @@ like React Native. The post is somewhat biased towards Ionic for obvious reasons
 
 Basically the only advantage of Ionic is complete reliance on standard web technologies
 (including JavaScript) which are familiar to the masses. I would say JS is more like a
-disadvantage, but nevertheless it is generally considered a plus. That is it, which all
-those Web stack Ionic inherits all of the drawbacks.
+disadvantage, but nevertheless it is generally considered a plus. That is it, with all
+those Web tech Ionic inherits all of the drawbacks.
 
 So, here comes a list of drawbacks, which make the Ionic story not so rosy:
 - Despite basing Ionic on open standards, the framework itself feels proprietary, backed
@@ -186,6 +186,8 @@ feels scary, isn't it?
 challenging adventure.
 - There is not BouncyCastle port, which will require reseach and evaluation of elliptic
 curve and hashing libraries.
+- Desktop support is based on [Electron](https://www.electronjs.org/) which has its own
+security concerns.
 
 ## Conclusion
 
