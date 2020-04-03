@@ -1,4 +1,4 @@
-# Ergo UIKit: A Smart Money at Your Fingertips
+# Ergo UIKit: Smart Money at Your Fingertips
 
 ## Introduction
 
@@ -79,7 +79,7 @@ The library implements the following components (Widgets):
   - [ ] `Backup Mnemonic` form
   
 #### Settings and Preferences
-- `Settings` form 
+- [ ] `Settings` form 
   - [ ] `Ergo Node` Endpoint
   - [ ] `Known Peers` list view
  
